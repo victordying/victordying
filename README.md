@@ -1,7 +1,9 @@
 ## Hi there 👋
 
+Hello, my name is Victor Santamaria and I am a Junior undergraduate studying Computer Science in Southern Arkansas University in Magnolia, Arkansas.
+
 <!--
-**victordying/victordying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
